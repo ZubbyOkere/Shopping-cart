@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "cart",
+    "price": 10.99,
+    "imgUrl": "/images/blazerss.jpg"
+  },
+  {
+    "id": 2,
+    "name": "bag",
+    "price": 19,
+    "imgUrl": "/images/bag.jpg"
+  },
+  {
+    "id": 3,
+    "name": "dress",
+    "price": 1099,
+    "imgUrl": "/images/dress.jpg"
+  },
+  {
+    "id": 4,
+    "name": "cart",
+    "price": 199,
+    "imgUrl": "/images/cart.jpg"
+  }
+]
